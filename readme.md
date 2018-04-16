@@ -1,4 +1,4 @@
-##Algorithms learning & practicing
+## Algorithms learning & practicing
 
 ### classic algorithms 
 - Sorting
